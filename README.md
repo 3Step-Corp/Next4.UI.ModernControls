@@ -2,20 +2,28 @@
 
 Modern and Clean UI Elements to create Stunning look applications.
 
-## Compatibilty
+## Current Versions
+
+0.1 BETA
+
+## Compatibilty and Versions
 
 ## Desktop Apps (Windows Only) 
 
 ### .NET Framework | C# - Visual Basic
 
-- V. 4.8.1
-- V. 4.8
-- V. 4.7.2
+| .NET Framework | Modern Controls |
+| ----------- | ----------- |
+| 4.8.1 | 0.1 Beta |
+| 4.8 | 0.1 BETA |
+| 4.7.2 | 0.1 BETA |
 
 ### .NET (Desktop Only) | C# - Visual Basic
 
-- V. 8.0
-- V. 7.0
-- V. 6.0
+| .NET | Modern Controls |
+| ----------- | ----------- |
+| 8.0 | Unsupported |
+| 7.0 | Unsupported |
+| 6.0 | Unsupported |
 
 ---------------------------------
